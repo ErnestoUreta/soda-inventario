@@ -10,6 +10,6 @@ Aplicación de inventario diario de **Soda, Sanguchería Chilena** (Frutillar).
 2. Ábrelo. Si Android avisa que no reconoce la aplicación, toca **Más detalles** y luego **Instalar de todas formas**.
 3. Abre la app y toca **Crear cuenta**. Un supervisor tiene que autorizarte antes de que puedas entrar.
 
-Si ya tienes la app instalada no necesitas descargar nada: las correcciones llegan solas al abrirla.
+Si ya tienes la app instalada, descarga e instala este archivo una vez: se instala encima y no pierdes nada. Desde ahí las correcciones menores llegan solas al abrirla.
 
 Este enlace siempre apunta a la última versión.
